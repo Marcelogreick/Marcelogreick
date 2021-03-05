@@ -6,7 +6,7 @@
 - 🔭 Desenvolvedor Frontend na [Me2 Softwares](https://www.instagram.com/me2softwares/)
 
 
-  - 📫 Contato **mgreick25@gmail.com** [Linkedin](https://www.linkedin.com/in/marcelogreick/)
+- 📫 Contato **mgreick25@gmail.com** [Linkedin](https://www.linkedin.com/in/marcelogreick/)
 
 
 <p align="left">
