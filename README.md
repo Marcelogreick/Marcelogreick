@@ -12,9 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
 </p>
 
-<div>
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?marcelogreick" frameborder="0"></iframe>
-</div>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?marcelogreick" frameborder="0"></iframe>
 
 <!--
 **Marcelogreick/Marcelogreick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
