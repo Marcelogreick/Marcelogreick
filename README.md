@@ -1,4 +1,4 @@
-<h1 align="center">Marcelo Greick</h1>
+### Hello, I'm Marcelo Greick
 <h3 align="center">Desenvolvedor Fullstack (React, Node, React Native)</h3>
 
 - 🔭 Desenvolvedor fullstack na [Deway](https://www.instagram.com/dewayoficial/)
