@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
 </p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogreick
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=marcelogreick)
 
 <!--
 **Marcelogreick/Marcelogreick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
