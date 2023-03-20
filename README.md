@@ -13,10 +13,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nest" width="45" height="45"/>
   <img src="https://vectorseek.com/wp-content/uploads/2021/12/Next.js-Logo-Vector.jpg" alt="next" width="45" height="45"/>
-  <img src="" alt="" width="45" height="45"/>
-  <img src="" alt="" width="45" height="45"/>
-  <img src="" alt="" width="45" height="45"/>
-  <img src="" alt="" width="45" height="45"/>
 </p>
 
 
