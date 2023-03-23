@@ -11,6 +11,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nest" width="45" height="45"/>
   <img src="https://vectorseek.com/wp-content/uploads/2021/12/Next.js-Logo-Vector.jpg" alt="next" width="45" height="45"/>
   <img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" alt="next" width="45" height="45"/>
+  <img src="https://www.fastify.io/images/fastify-logo-inverted.2180cc6b1919d47a.png" alt="fastify" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="boo" width="45" height="45"/>
 </p>
 
 
