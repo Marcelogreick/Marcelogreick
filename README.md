@@ -1,5 +1,5 @@
 ### Hello, I'm Marcelo Greick
-<h3 align="center">Developer Fullstack (React, Node, React Native)</h3>
+<h3 align="center">Developer Full stack (React, Node, React Native)</h3>
 
 <p>
 Sou desenvolvedor React, React Native com conhecimento em Node.js, com participação em projetos de grandes empresas como Corpvs, Libercard, 704 Apps.
