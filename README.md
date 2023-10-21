@@ -1,5 +1,5 @@
 ### Hello, I'm Marcelo Greick
-<h3 align="center">Developer Full stack (React, Node, React Native)</h3>
+<h3 align="center">Developer React Native na Gok</h3>
 
 <p>
 Sou desenvolvedor React, React Native com conhecimento em Node.js, atualmente estou no projeto Drogasil e Droga Raia. 
