@@ -4,7 +4,7 @@
 <p>
 Sou desenvolvedor React, React Native com conhecimento em Node.js, atualmente estou no projeto Drogasil e Droga Raia. 
 
-Possuo habilidades sólidas em React, React Native, Node, Html, Css, Typescript, Next.Js, NestJs, Prisma.IO, Fastify, Material UI, Express. com um histórico comprovado de alcançar resultados positivos em em projetos de grandes empresas. Sou uma pessoa organizada e proativo que liderei a equipe reformulação do novo aplicativo de mobilidade urbana que possui mais de 100 mil usuários. Estou sempre buscando aprender e me atualizar em minha área, a fim de estar sempre na vanguarda das melhores práticas e tendências.
+Possuo habilidades sólidas em React, React Native, Node, Typescript, Next.Js, NestJs e Express. com um histórico comprovado de alcançar resultados positivos em em projetos de grandes empresas. Sou uma pessoa organizada e proativo que liderei a equipe reformulação do novo aplicativo de mobilidade urbana que possui mais de 100 mil usuários. Estou sempre buscando aprender e me atualizar em minha área, a fim de estar sempre na vanguarda das melhores práticas e tendências.
 
 Vamos conectar? Estou sempre interessado(a) em expandir minha rede de contatos e compartilhar conhecimentos e experiências com outros profissionais.
 </p>
