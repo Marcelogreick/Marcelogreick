@@ -13,7 +13,6 @@ Vamos conectar? Estou sempre interessado(a) em expandir minha rede de contatos e
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="reactnative" width="75" height="45"/>
   <img src="https://vectorseek.com/wp-content/uploads/2021/12/Next.js-Logo-Vector.jpg" alt="next" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nest" width="45" height="45"/>
